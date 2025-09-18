@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "@abov3/sdk",
+  "version": "1.0.0",
+  "description": "Official JavaScript/TypeScript SDK for ABOV3 AI development assistant",
+  "author": "ABOV3 Team",
+  "license": "MIT",
+  "homepage": "https://github.com/fajardofahad/abov3-sdk-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fajardofahad/abov3-sdk-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fajardofahad/abov3-sdk-js/issues"
+  },
+  "keywords": [
+    "abov3",
+    "ai",
+    "sdk",
+    "api",
+    "typescript",
+    "javascript"
+  ],
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "prepublishOnly": "npm run build"
+  },
+  "exports": {
+    ".": {
+      "development": "./src/index.ts",
+      "import": "./dist/index.js"
+    },
+    "./client": {
+      "development": "./src/client.ts",
+      "import": "./dist/client.js"
+    },
+    "./server": {
+      "development": "./src/server.ts",
+      "import": "./dist/server.js"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "typescript": "catalog:",
+    "@hey-api/openapi-ts": "0.80.1",
+    "@tsconfig/node22": "catalog:"
+  },
+  "dependencies": {
+    "@hey-api/openapi-ts": "0.81.0"
+  }
+}
