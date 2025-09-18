@@ -1,6 +1,9 @@
-# @abov3/sdk
+# ABOV3 JavaScript/TypeScript SDK - Genesis CodeForger Edition
 
-Official JavaScript/TypeScript SDK for ABOV3 - AI-powered development assistant.
+Official JavaScript/TypeScript SDK for ABOV3 AI - Genesis CodeForger Edition.
+
+**Official Website:** [https://www.abov3.ai](https://www.abov3.ai)
+**ABOV3 Team:** [https://www.abov3.com](https://www.abov3.com)
 
 ## Installation
 
