@@ -29,6 +29,22 @@ const client = createAbov3Client({
 const sessions = await client.sessions.list();
 ```
 
+## What's New in v1.0.4
+
+### TUI Configuration Management
+The TUI now includes comprehensive configuration management commands:
+- Interactive configuration dialogs with form inputs
+- Provider management (add, edit, enable/disable, remove)
+- MCP server configuration
+- System health checks and validation
+- Scrollable configuration viewer
+
+### Features
+- Real-time configuration updates
+- Form-based input for adding providers and MCP servers
+- Health diagnostics with `config doctor` command
+- Configuration validation with detailed error reporting
+
 ## Documentation
 
 For full documentation, visit [https://github.com/fajardofahad/abov3-genesis-codeforger](https://github.com/fajardofahad/abov3-genesis-codeforger)
