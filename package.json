@@ -5,13 +5,13 @@
   "description": "Official JavaScript/TypeScript SDK for ABOV3 AI development assistant",
   "author": "ABOV3 Team",
   "license": "MIT",
-  "homepage": "https://github.com/fajardofahad/abov3-sdk-js",
+  "homepage": "https://github.com/ABOV3AI/abov3-sdk-js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fajardofahad/abov3-sdk-js.git"
+    "url": "https://github.com/ABOV3AI/abov3-sdk-js.git"
   },
   "bugs": {
-    "url": "https://github.com/fajardofahad/abov3-sdk-js/issues"
+    "url": "https://github.com/ABOV3AI/abov3-sdk-js/issues"
   },
   "keywords": [
     "abov3",

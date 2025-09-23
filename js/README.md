@@ -28,7 +28,7 @@ const sessions = await client.sessions.list();
 
 ## Documentation
 
-For full documentation, visit [https://github.com/fajardofahad/abov3-genesis-codeforger](https://github.com/fajardofahad/abov3-genesis-codeforger)
+For full documentation, visit [https://github.com/ABOV3AI/abov3-genesis-codeforger](https://github.com/ABOV3AI/abov3-genesis-codeforger)
 
 ## License
 
