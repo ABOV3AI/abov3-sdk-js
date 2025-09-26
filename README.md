@@ -47,7 +47,7 @@ The TUI now includes comprehensive configuration management commands:
 
 ## Documentation
 
-For full documentation, visit [https://github.com/ABOV3AI/abov3-genesis-codeforger](https://github.com/ABOV3AI/abov3-genesis-codeforger)
+For full documentation, visit [https://www.abov3.ai/docs/index.html](https://www.abov3.ai/docs/index.html)
 
 ## License
 
