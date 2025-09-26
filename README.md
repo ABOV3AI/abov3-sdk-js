@@ -47,7 +47,7 @@ The TUI now includes comprehensive configuration management commands:
 
 ## Documentation
 
-For full documentation, visit [https://www.abov3.ai/docs/index.html](https://www.abov3.ai/docs/index.html)
+For full documentation, visit [https://www.abov3.ai/docs](https://www.abov3.ai/docs)
 
 ## License
 
