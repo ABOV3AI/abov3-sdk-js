@@ -1,9 +1,6 @@
-# ABOV3 JavaScript/TypeScript SDK - Genesis CodeForger Edition
+# @abov3/sdk
 
-Official JavaScript/TypeScript SDK for ABOV3 AI - Genesis CodeForger Edition.
-
-**Official Website:** [https://www.abov3.ai](https://www.abov3.ai)
-**ABOV3 Team:** [https://www.abov3.com](https://www.abov3.com)
+Official JavaScript/TypeScript SDK for ABOV3 - AI-powered development assistant.
 
 ## Installation
 
@@ -29,25 +26,9 @@ const client = createAbov3Client({
 const sessions = await client.sessions.list();
 ```
 
-## What's New in v1.0.4
-
-### TUI Configuration Management
-The TUI now includes comprehensive configuration management commands:
-- Interactive configuration dialogs with form inputs
-- Provider management (add, edit, enable/disable, remove)
-- MCP server configuration
-- System health checks and validation
-- Scrollable configuration viewer
-
-### Features
-- Real-time configuration updates
-- Form-based input for adding providers and MCP servers
-- Health diagnostics with `config doctor` command
-- Configuration validation with detailed error reporting
-
 ## Documentation
 
-For full documentation, visit [https://www.abov3.ai/docs](https://www.abov3.ai/docs)
+For full documentation, visit [https://github.com/ABOV3AI/abov3-genesis-codeforger](https://github.com/ABOV3AI/abov3-genesis-codeforger)
 
 ## License
 
